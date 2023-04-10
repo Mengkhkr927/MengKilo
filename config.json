@@ -1,0 +1,15 @@
+{
+  "token": "MTA5NDY2NjQ5NjE5OTg5NzIzMA.GUKNW4.vT9c87-q7m9OAVqIL-f_Xm4mAJlAEOauRn_QVY",
+  "prefix": ".",
+  "serverAddress": "play.ttpvanillamc.lol",
+  "serverPort": "19132",
+  "serverName": "TTPVANILLAMC ",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "",
+  "pinGuildId": "1091037474953904248",
+  "pinChanId": "1094888525167595531"
+}
